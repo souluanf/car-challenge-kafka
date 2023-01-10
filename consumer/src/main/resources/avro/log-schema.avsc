@@ -1,0 +1,11 @@
+{
+    "type": "record",
+    "name": "Log",
+    "namespace": "dev.luanfernandes.consumer.record",
+    "version": "1",
+    "fields": [
+        { "name": "id","type": "string"},
+        { "name": "dataHora","type": "string"},
+        { "name": "carId","type": "string"}
+    ]
+}
