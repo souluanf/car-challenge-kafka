@@ -19,7 +19,7 @@
         <springfox.version>3.0.0</springfox.version>
         <kafka-clients.version>3.1.1</kafka-clients.version>
         <model-mapper.version>3.1.0</model-mapper.version>
-        <avro.version>1.11.0</avro.version>
+        <avro.version>1.11.3</avro.version>
         <java.version>17</java.version>
         <springfox.version>3.0.0</springfox.version>
         <mojo.version>3.0.0</mojo.version>
